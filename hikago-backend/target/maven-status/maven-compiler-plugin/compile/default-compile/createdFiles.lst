@@ -1,0 +1,9 @@
+com/hikago/services/IStudySetService.class
+com/hikago/services/ITermService.class
+com/hikago/models/Term.class
+com/hikago/services/StudySetService.class
+com/hikago/Constants.class
+com/hikago/services/TermService.class
+com/hikago/utils/OfyHelper.class
+com/hikago/YourFirstAPI.class
+com/hikago/models/StudySet.class
